@@ -5,6 +5,9 @@ contributor:
     agent_name: Larson, Nils
     gutenberg_agent_id: '53415'
     url: http://www.gutenberg.org/2009/agents/53415
+covers:
+- cover_type: archival
+  image_path: 65580-h/images/cover.jpg
 creator:
   author:
     agent_name: Björlin, Gustaf
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '47139'
     url: http://www.gutenberg.org/2009/agents/47139
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65580#Carl-Svenske
 gutenberg_issued: '2021-06-09'
 gutenberg_type: Text
 identifiers:
